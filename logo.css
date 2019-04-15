@@ -1,0 +1,66 @@
+
+ #logo{
+    background-color: red;
+    color: white; 
+    float: left;
+    width: 75px;
+    height: 55px;  
+    padding: 10px; 
+    left: 0px;
+    font-size: 30px;
+    
+    
+
+}
+
+    .navigationalbar {
+        background:black;
+        height: 75px;
+    }
+    
+    .navigationalbar ul li{
+         display:inline-block;
+         text-align: center;                
+         margin-left: 0px; 
+         
+   
+    }
+
+    li #maglass{
+        width: 21px;
+        height: 21px;
+        
+    }
+
+    li .cart{
+        width: 21px;
+        height: 21px;
+    }    
+
+    .navigationalbar li a{
+        text-decoration: none;
+        color: white;
+        padding: 20px;
+        margin-left: -5px;
+        float:right;         
+        text-align:left;
+        font-size: 15px;
+        }
+    
+    #search{
+        margin-left: 50px;
+        width: 200px;  
+    }
+    .signin{
+        color: white;
+        font-size: 10px;
+        float: right;
+        margin: 20px;
+    }
+    
+            
+    
+    
+ 
+      
+    
