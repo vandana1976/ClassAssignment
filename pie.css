@@ -1,0 +1,40 @@
+#outer{
+    position: absolute;
+    margin: 50;
+}
+
+
+#rightup{
+    height: 150px;
+    width: 150px;
+    background-color:yellow;
+    position: absolute;
+    left: 158px;
+    top: 8px;
+    border-radius: 0 200px 0 0;      
+}
+
+#rightdown{
+    height: 150px;
+    width: 150px;
+    background-color:green;
+    position: absolute;
+    left: 158px;
+    border-radius: 0 0 200px 0;
+}
+
+#leftup{
+    height: 150px;
+    width: 150px;
+    background-color:red;
+    border-radius: 200px 0 0 0;
+    
+}
+
+#leftdown{
+    height: 150px;
+    width: 150px;
+    background-color:blue;
+    border-radius: 0 0 0 200px;
+       
+}
